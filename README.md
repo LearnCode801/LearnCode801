@@ -1,8 +1,4 @@
 ![logo](https://github.com/LearnCode801/LearnCode801/blob/main/Blue%20Geometric%20Technology%20Linkedin%20Banner%20(1).png)
-<h1 align="center">
-  Hi 👋, I'm Muhammad Talha
-</h1>
-<h3 align="center">A passionate Data Scientist / ML/DL Engineer / AI Engineer from Pakistan</h3>
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
