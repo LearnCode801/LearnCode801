@@ -1,11 +1,5 @@
 ![logo](https://github.com/LearnCode801/LearnCode801/blob/main/Blue%20Geometric%20Technology%20Linkedin%20Banner%20(1).png)
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=learncode801" alt="learncode801" />
-  </a>
-</p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/https://www.linkedin.com/in/muhammad-talha-806126234/" target="blank">
