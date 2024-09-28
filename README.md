@@ -9,7 +9,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/muhammadtalhaawan" height="30" width="40" />
   </a>
 </p>
- <img src="https://nstxl.org/wp-content/uploads/2023/01/Untitled-design-18-2-1200x801.png" alt="logo" width="400" align="right"/>
+ <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40manojjeetakshluhaniwal25%2Fintroduction-to-artificial-intelligence-basics-of-ai-including-history-applications-and-ethical-4b0bc8d6ed06&psig=AOvVaw3w0mok-2daCRUrFpeo_2hv&ust=1727595981619000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqGAoTCOijnd2S5YgDFQAAAAAdAAAAABCOAg" alt="logo" width="400" align="right"/>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
