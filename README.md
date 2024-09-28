@@ -9,6 +9,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/muhammadtalhaawan" height="30" width="40" />
   </a>
 </p>
+ <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fnstxl.org%2Fhow-artificial-intelligence-is-changing-the-future-of-military-defense-strategies%2F&psig=AOvVaw3w0mok-2daCRUrFpeo_2hv&ust=1727595981619000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqGAoTCOijnd2S5YgDFQAAAAAdAAAAABCAAQ" alt="logo" width="400" height="50" align="right"/>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
