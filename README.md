@@ -9,7 +9,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/muhammadtalhaawan" height="30" width="40" />
   </a>
 </p>
- <img src="https://nstxl.org/wp-content/uploads/2023/01/Untitled-design-18-2-1200x801.png" alt="logo" width="400" height="50" align="right"/>
+ <img src="https://nstxl.org/wp-content/uploads/2023/01/Untitled-design-18-2-1200x801.png" alt="logo" width="400" align="right"/>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
