@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm [Your Name] 👋</h1>
+<h1 align="center">Hi, I'm Muhammad Talha 👋</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/BS%20in%20Computer%20Science-UET%20Taxila-blue?style=flat-square" alt="UET Taxila">
@@ -12,11 +12,16 @@
 
 ---
 
+<h2 align="center">🧠💻📊🔍🎯 Data Scientist | Python 👨‍💻 | ML/DL/Generative AI | NLP 🗣️ | CV | LLM | RAG 📚 | ChatBots 🤖 | Finetune 🔧🎯 LLM</h2>
+
+---
+
 <h2 align="center">🚀 About Me</h2>
 
 - 🎓 **Currently Pursuing**: BS in Computer Science from UET Taxila.
 - 👨‍💻 **Data Scientist**: With a strong statistical and analytical background, I am passionate about deriving actionable insights from data and building predictive models using Machine Learning (ML) and Deep Learning (DL) algorithms.
 - 🌱 **Skills**: Focused on solving complex business problems with the power of data and AI.
+- 🤖 **Specialties**: Large Language Models (LLM), Retrieval-Augmented Generation (RAG), Chatbot Development, and Fine-tuning models.
 
 ---
 
@@ -75,8 +80,8 @@
 <h2 align="center">🚀 Let's Connect!</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/yourlinkedin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white"></a>
-  <a href="https://kaggle.com/yourkaggleprofile" target="_blank"><img src="https://img.shields.io/badge/Kaggle-Expert-blue?style=flat-square&logo=kaggle&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/muhammad-talha-806126234/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.kaggle.com/muhammadtalhaawan" target="_blank"><img src="https://img.shields.io/badge/Kaggle-Expert-blue?style=flat-square&logo=kaggle&logoColor=white"></a>
   <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-red?style=flat-square&logo=gmail&logoColor=white"></a>
 </p>
 
