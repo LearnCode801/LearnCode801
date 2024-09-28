@@ -1,4 +1,4 @@
-![logo]("https://github.com/LearnCode801/LearnCode801/blob/main/Blue%20Geometric%20Technology%20Linkedin%20Banner%20(1).png")
+![logo](https://github.com/LearnCode801/LearnCode801/blob/main/Blue%20Geometric%20Technology%20Linkedin%20Banner%20(1).png)
 <h1 align="center">
   Hi 👋, I'm Muhammad Talha
 </h1>
