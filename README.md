@@ -63,3 +63,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=learncode801&show_icons=true&locale=en" alt="learncode801" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=learncode801&" alt="learncode801" /></p>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=LearnCode801&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
